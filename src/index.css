@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: white;
+}
+
+button {
+  background-color: #00cc99;
+  border: none;
+  padding: 8px 12px;
+  color: white;
+  cursor: pointer;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer h3 {
+  margin-bottom: 10px;
+}
+
+footer ul {
+  padding: 0;
+}
+
+footer p {
+  margin: 0;
+}
